@@ -89,7 +89,7 @@
 
 /***/ },
 /* 2 */
-/***/ function(module, exports, __webpack_require__) {
+/***/ function(module, exports) {
 
 	/*
 	 * Copyright 2008 Google Inc.
