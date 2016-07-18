@@ -1,5 +1,5 @@
 var loaderUtils = require('loader-utils');
-var closureTemplates = require('closure-templates');
+var closureTemplates = require('rodzewich-closure-templates');
 var Promise = require('bluebird');
 var soynode = Promise.promisifyAll(require('soynode'));
 var fs = Promise.promisifyAll(require('fs'));

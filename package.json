@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "bluebird": "^2.9.25",
-    "closure-templates": "^20141017.0.1",
+    "rodzewich-closure-templates": "^20140422.0.0",
     "exports-loader": "^0.6.2",
     "loader-utils": "^0.2.7",
     "rimraf": "^2.3.4",
